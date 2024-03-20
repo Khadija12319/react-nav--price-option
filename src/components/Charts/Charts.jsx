@@ -1,6 +1,6 @@
 import { LineChart, Line, XAxis, YAxis } from 'recharts';
-import React, { PureComponent } from 'react';
-import { BarChart, Bar, Rectangle, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+// import React, { PureComponent } from 'react';
+import { BarChart, Bar, Rectangle, CartesianGrid, Tooltip, Legend } from 'recharts';
 
 const mathMarksData=[
     {"student_id": 1, "name": "Alice", "math_marks": 85, "physics_marks": 78, "chemistry_marks": 92},
